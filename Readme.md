@@ -18,7 +18,7 @@ Before running the project, ensure you have the following installed:
 
 1. Clone the repository:
    bash
-   git clone [<repository-url>](https://github.com/Sarathsurendhran/user_manage_system.git)
+   git clone https://github.com/Sarathsurendhran/user_manage_system.git
    cd user-management
    
 
